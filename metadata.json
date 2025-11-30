@@ -1,0 +1,5 @@
+{
+  "name": "Implicit Growth Calculator",
+  "description": "Calculate the market-implied growth rate of a stock using the reverse Discounted Cash Flow (DCF) method with real-time data sourced from the web.",
+  "requestFramePermissions": []
+}
